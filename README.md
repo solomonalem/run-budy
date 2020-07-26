@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -15,4 +15,6 @@ https://solomonmeresa.github.io/run-budy/
 
 ## Contribution
 
-Made with ❤️ by [Solomon]
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc
