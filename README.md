@@ -1,14 +1,18 @@
-# run-budy
+# Run Buddy Inc.
 
 ## Purpose
+
 A website that offers fitness training services.
 
 ## Built With
-* HTML
-* CSS
+
+- HTML
+- CSS
 
 ## Website
+
 https://solomonmeresa.github.io/run-budy/
 
 ## Contribution
+
 Made with ❤️ by [Solomon]
